@@ -1,0 +1,1432 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rarities, or, The incomparable curiosities in secret writing, both aswel [i.e. as well as] by waters as cyphers, explained and made familiar to the meanest capacity by which ministers of state may manage the intrigues of court and grand concerns of princes, the ladies communicate their amours, and every ordinary person (onely capable of legible writing) may order his private affairs with all imaginable safety and secrecy ... / by G.B.</title>
+            <author>G. B., gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30870</idno>
+            <idno type="STC">Wing B69</idno>
+            <idno type="STC">ESTC R4883</idno>
+            <idno type="EEBO-CITATION">11792315</idno>
+            <idno type="OCLC">ocm 11792315</idno>
+            <idno type="VID">49268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49268)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 806:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rarities, or, The incomparable curiosities in secret writing, both aswel [i.e. as well as] by waters as cyphers, explained and made familiar to the meanest capacity by which ministers of state may manage the intrigues of court and grand concerns of princes, the ladies communicate their amours, and every ordinary person (onely capable of legible writing) may order his private affairs with all imaginable safety and secrecy ... / by G.B.</title>
+                  <author>G. B., gent.</author>
+               </titleStmt>
+               <extent>[2], 22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for Nath. Brook ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Advertisements on p. [1]-[2] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cryptography.</term>
+               <term>Shorthand.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49268:1" rendition="simple:additions"/>
+            <pb facs="tcp:49268:1" rendition="simple:additions"/>
+            <p>Rarities: OR The incompar<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in SECRET WRITING, Both <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Waters <hi>as</hi> Cyphers, explained and made familiar to the meaneſt Capacity.</p>
+            <p>By which Miniſters of State may manage the Intrigues of Court and grand Concerns of Princes, the Ladies communicate their Amours, and every ordinary perſon (onely capable of legible Writing) may order his private affairs with all imaginable ſafety and ſecrecy.</p>
+            <p>
+               <hi>Publiſh'd to promote the Publick, to delight the Ingenious, and encourage the Induſtrious, By</hi> G. B. <hi>Gent.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. G.</hi> for <hi>Nath.<g ref="char:punc">▪</g> Brook,</hi> at the Angel in Cornhill. 1665.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:49268:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:49268:2"/>
+            <head>To the READER.</head>
+            <p>I Think it fit to acquaint thee that ſeveral Cyphers and other Papers of Secret Writing which were many years ſince plunder'd from the Au<g ref="char:EOLhyphen"/>thor of the following Tracts, came ſhortly after to my hands, and have lain long by me to little purpoſe; for not<g ref="char:EOLhyphen"/>withſtanding his Publication of the following Diſcourſe thereof, my great pains to make ſome progreſs therein came to nothing untill he in his ſecond Edition gave the Learner Directions how to proceed: Since th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n I have made out his methods, and thereby un<g ref="char:EOLhyphen"/>derſtand his ingenious Con<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rivements
+<pb n="2" facs="tcp:49268:3"/> of the Alphabets, and how he thereby Cyphers and Decyphers ſecret Con<g ref="char:EOLhyphen"/>cernments; and in the firſt place I lead thee by the hand from familiar Ex<g ref="char:EOLhyphen"/>amples, and the beginnings of that Art (as I find them in his Papers) to the ſublime curioſities thereof, which in my opinion will be to thee a ſervice very acceptable; and being I have no ends beyond the kindneſs I owe to common capacities, and the publick, I hope to meet with a general pardon both from the great Maſters of that rare Art, and from all others, and the rather, becauſe I conceive it cannot be prejudicial to matters of State for every ordinary per<g ref="char:EOLhyphen"/>ſon to be able to conceal his own Con<g ref="char:EOLhyphen"/>cerns in a Character only legible to himſelf, and that no man in a conditi<g ref="char:EOLhyphen"/>on where the managery of the Pen is re<g ref="char:EOLhyphen"/>quiſite, but may have occaſion to lay by ſomething ſecretly to prevent intruſion into his private affairs. I mean well to all, and ſo conſequently have the leſs to account for: but however I am conclu<g ref="char:EOLhyphen"/>ded, I ſhall ſhortly (if I live) be</p>
+            <closer>
+               <signed>Thy more uſeful Friend G. B.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:49268:3"/>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to my undertaking I ſhall Illuſtrate this Art in its Originals by eaſie Ex<g ref="char:EOLhyphen"/>amples (of which I lately thought my ſelf as ignorant as any that are to learn) and from thence ſhew how the Authors Contrivements from time to time ſtill rendred the ſame more in<g ref="char:EOLhyphen"/>tricate and recluſe to the Inquiſitor, till Art (in the Concluſion) ſhut Art (in the diſquiſition) out a doors.</p>
+            <p>Firſt write down the Alphabet thus <hi>a b c d e f g h i k l m n o p q r s t u w x y z</hi>
+            </p>
+            <p>Now ſuppoſe I were to ſend the Watch-word (or any other ſecret) to a Confederate, <hi>viz. God with us.</hi> To change the Letters of thoſe words into contrary Characters not to be under<g ref="char:EOLhyphen"/>ſtood (in caſe of interception) but by the Confederate; I agree with him up<g ref="char:EOLhyphen"/>on a Clavis or Key, ſo called becauſe thoſe Letters are to be thereby firſt ey<g ref="char:EOLhyphen"/>pher'd, lockt, or infolded to diſtract the ſenſe; and then to be decypher'd, un<g ref="char:EOLhyphen"/>folded or unlockt and made legible to the Confederate only, <hi>viz.</hi>
+            </p>
+            <pb n="4" facs="tcp:49268:4"/>
+            <p>Let the Clavis or Key be 2 3 4 5—which muſt be placed over the ſecret to be cypher'd, lockt, or infolded thus 2 3 4 5 2 3 4 5 2<note place="margin">2 34 5234 52 God with us</note>
+            </p>
+            <p>
+               <hi>God with us</hi> and continued, if the clauſe were longer, ſo long as there is a Letter to be lockt, as will hereafter be more perſpicuous.</p>
+            <p>Then I begin and ſay the ſecond Let<g ref="char:EOLhyphen"/>ter from G (forwards towards the right hand) is I the third from O is R the fourth from D is H the fifth from W is B the ſecond from I is L and ſo pro<g ref="char:EOLhyphen"/>ceeding in that order, thoſe words will be comprehended in theſe Letters <hi>irhblxmau</hi>
+            </p>
+            <p>Then the Confederate to unlock thoſe Letters muſt place the Key over them 2 3 4 5 2 3 4 5 2 thus <hi>viz. irhblxmau</hi> and ſay the ſe<g ref="char:EOLhyphen"/>cond Letter from I (backwards toward the left hand) is G the third from R is O the 4<hi rend="sup">th</hi>. from H is D &amp;c. by which means the intended ſenſe is eaſily underſtood, which without the Key cannot be legi<g ref="char:EOLhyphen"/>ble to any but the Confederate; and ſo by different Keys, and one of the fol<g ref="char:EOLhyphen"/>lowing Cyphers a correſpondence may be maintained with all manner of per<g ref="char:EOLhyphen"/>ſons
+<pb n="5" facs="tcp:49268:4"/> or every man may infold his own ſecrets thereby at pleaſure.</p>
+            <p>
+               <hi>Another Eaſie and familiar way thus:</hi>
+            </p>
+            <p>Set down the Alphabet twice, firſt in a direct order then indirectly or in verſe, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>a b c d e f g h i k l m n o p q r s t u w x y z z y x w u t s r q p o n m l k i h g f e d c b a</hi>
+            </p>
+            <p>And to lock the former words (<hi>God with us</hi>) take each Letter oppoſite to the Letters to be lockt, <hi>viz.</hi> for G an S for O an L for d a W &amp;c. and the Letters in the words to be lockt will be com<g ref="char:EOLhyphen"/>prehended in theſe Letters <hi>slwdqfreg</hi> then to unlock them for s take G for L an O for W a D and the words will be ſoon returned to their firſt predicament. But the Author not much applauding this method as conceiving it not ſuffici<g ref="char:EOLhyphen"/>ently ſecure againſt an artificial ſcruti<g ref="char:EOLhyphen"/>tiny, I ſhall quit that and touch upon his next which is more ſafe and conciſe.</p>
+            <p>In his ſecond Edition between the firſt and ſecond Cyphers, <hi>pag.</hi> 54. he lays down an eaſie method for unlock<g ref="char:EOLhyphen"/>ing the lines affixed to thoſe Cyphers (and ſome of thoſe that follow<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and I muſt confeſs my ſelf much delighted in thoſe Contrivements, but becauſe they
+<pb n="6" facs="tcp:49268:5"/> are (by his directions there) obvious to the meaneſt capacities, I only hint that method and proceed to his next which is more ready and pleaſant, and ſhall de<g ref="char:EOLhyphen"/>monſtrate the ſame by his ſixth Cypher, <hi>pag.</hi> 61. and afterwards more conciſely by an excellent Cypher of his now in my cuſtody. But before I ſhew the or<g ref="char:EOLhyphen"/>der of the work, I muſt frame that ſixth Cypher a new, for I conceive he hath purpoſely diſordered the Letters in their ranks to perplex the inquiſitor.</p>
+            <pb facs="tcp:49268:5"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                  </row>
+                  <row>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                  </row>
+                  <row>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                  </row>
+                  <row>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                  </row>
+                  <row>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                  </row>
+                  <row>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                  </row>
+                  <row>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                  </row>
+                  <row>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                  </row>
+                  <row>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                  </row>
+                  <row>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                  </row>
+                  <row>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                  </row>
+                  <row>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                  </row>
+                  <row>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                  </row>
+                  <row>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                  </row>
+                  <row>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                  </row>
+                  <row>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                  </row>
+                  <row>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                  </row>
+                  <row>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                  </row>
+                  <row>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                  </row>
+                  <row>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                  </row>
+                  <row>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                  </row>
+                  <row>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                  </row>
+                  <row>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                  </row>
+                  <row>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:49268:6"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                  </row>
+                  <row>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                  </row>
+                  <row>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                  </row>
+                  <row>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                  </row>
+                  <row>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                  </row>
+                  <row>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                  </row>
+                  <row>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                  </row>
+                  <row>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                  </row>
+                  <row>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                  </row>
+                  <row>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                  </row>
+                  <row>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                  </row>
+                  <row>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                  </row>
+                  <row>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                  </row>
+                  <row>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                  </row>
+                  <row>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                  </row>
+                  <row>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                  </row>
+                  <row>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                  </row>
+                  <row>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                  </row>
+                  <row>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                  </row>
+                  <row>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                  </row>
+                  <row>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                  </row>
+                  <row>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                  </row>
+                  <row>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                  </row>
+                  <row>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="9" facs="tcp:49268:6"/>
+            <p>Admit the words to be lockt the ſame as in the former Examples, <hi>viz. God with us,</hi> and the Key to be 975 836412 and the work will ſtand thus 975 836412</p>
+            <p>
+               <hi>God with us</hi> then (by the left hand ſquare) ſay the 9th. from g (in the firſt line towards the right hand) is Q the 7th. from O is w the 5th. from D is I and ſo proceed, and thoſe words will be repreſented in theſe Letters, <hi>viz. q wiemamwu,</hi> where note that the words which conſiſt of 9 Letters are repreſen<g ref="char:EOLhyphen"/>ted by 7 for w repreſents o and u and m repreſents I and H and q and i and e and a and u repreſents g and d and t and S which is very difficult if at all poſſible to be diſcovered if intercepted. To un<g ref="char:EOLhyphen"/>lock thoſe Letters the work muſt ſtand</p>
+            <p>975836412</p>
+            <p>thus, <hi>viz. q wiemamw u</hi> then look q in the outermoſt line in the ſquare on the right hand and the 9th. Letter from that towards the left hand (in the ſame ſquare) is g the 7th. from W is O the 5th. from i is d and after that order thoſe Letters will be b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought to their fi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt predicament.</p>
+            <p>This Cypher and the Example from
+<pb n="10" facs="tcp:49268:7"/> thence cannot but be highly delightful to the Learner, but that which I for<g ref="char:EOLhyphen"/>merly mentioned to be in my Cuſtody, and which I ſhall next inſert will, by the Example illuſtrating the ſame, appear a very rare Curioſity.</p>
+            <pb facs="tcp:49268:7"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>3</cell>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>7</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                  </row>
+                  <row>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                  </row>
+                  <row>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                  </row>
+                  <row>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                  </row>
+                  <row>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                  </row>
+                  <row>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                  </row>
+                  <row>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                  </row>
+                  <row>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                  </row>
+                  <row>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                  </row>
+                  <row>
+                     <cell>k</cell>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                  </row>
+                  <row>
+                     <cell>l</cell>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                  </row>
+                  <row>
+                     <cell>m</cell>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                  </row>
+                  <row>
+                     <cell>n</cell>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                  </row>
+                  <row>
+                     <cell>o</cell>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                  </row>
+                  <row>
+                     <cell>p</cell>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                  </row>
+                  <row>
+                     <cell>q</cell>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                  </row>
+                  <row>
+                     <cell>r</cell>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                  </row>
+                  <row>
+                     <cell>s</cell>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                  </row>
+                  <row>
+                     <cell>t</cell>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                  </row>
+                  <row>
+                     <cell>u</cell>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                  </row>
+                  <row>
+                     <cell>w</cell>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                  </row>
+                  <row>
+                     <cell>x</cell>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                  </row>
+                  <row>
+                     <cell>y</cell>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                  </row>
+                  <row>
+                     <cell>z</cell>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                  </row>
+                  <row>
+                     <cell>a</cell>
+                     <cell>b</cell>
+                     <cell>c</cell>
+                     <cell>d</cell>
+                     <cell>e</cell>
+                     <cell>f</cell>
+                     <cell>g</cell>
+                     <cell>h</cell>
+                     <cell>i</cell>
+                     <cell>k</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>8</cell>
+                     <cell>7</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                     <cell>3</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="12" facs="tcp:49268:8"/>
+            <p>Under this Cypher I found the Ex<g ref="char:EOLhyphen"/>ample ſet down, but no Directions thereon, nor could I poſſibly find out the contrivement till I met with the Authors Directions in the ſecond Edi<g ref="char:EOLhyphen"/>tion of the following Tracts, as I for<g ref="char:EOLhyphen"/>merly hinted.</p>
+            <p>918 273645191 82736 4519182 <hi>Dii laboribus omnia vendunt nkr nheuwoceet xoumg z konwww</hi>
+            </p>
+            <p>The method is the ſame as in the laſt, <hi>viz.</hi> beginning at the utmoſt line to<g ref="char:EOLhyphen"/>wards the left hand, I ſay the 9th. from D (towards the right hand in a direct line) is N the firſt from I is K the 8th. from I is R which produceth the letters above ſpecified, then to unlock them begin at the utmoſt line on the right hand and ſay the 9th. from N (towards the left hand in a direct line) is D the firſt from K is I the 8th. from R is I, and by that method the letters will be re<g ref="char:EOLhyphen"/>ſtored to their firſt ſenſe; and I con<g ref="char:EOLhyphen"/>ceive he holds this Cypher ſufficiently ſafe for infolding any ſecret, and proves that 50l. worth of Paper will not con<g ref="char:EOLhyphen"/>tain the variations in a Clavis of 8 pla<g ref="char:EOLhyphen"/>ces.</p>
+            <pb n="13" facs="tcp:49268:8"/>
+            <p>You may now find the Clavis to the 6 Cypher (the inward ſenſe being <hi>Ho<g ref="char:EOLhyphen"/>nos alit Artes</hi>) to be 77873655295394 which is lockt and unlockt by the laſt method, by which the Key to the in<g ref="char:EOLhyphen"/>ward ſenſe in the 7th. Cypher may be moſt eaſily found out, and the words lockt and unlockt likewiſe.</p>
+            <p>The 9th. Cypher I find to be a va<g ref="char:EOLhyphen"/>riety of another nature, and the words to be infolded by a literal Clavis (a Key of Letters) <hi>viz.</hi> thus performed <hi>deadeade ade homicida eſt</hi> the words are to be lockt are <hi>homicida eſt,</hi> and the Clavis is <hi>de a,</hi> look H in one of the lines oppoſite to the Capitals C D and the next letter under it is t, then look O in one of the lines oppoſite to the <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> E f, and the next letter under it is D, do ſo in the reſt and the words to be lockt will be repreſented by the letters <hi>tdzunnyrgi,</hi> to unlock which ſet the Clavis over them, and look t in one of the lines oppoſite to the Capitals C D and the next letter under I is H, then look D in the lines oppoſite to the Ca<g ref="char:EOLhyphen"/>pitals E f and the next letter under D is O and ſo in the reſt.</p>
+            <pb n="14" facs="tcp:49268:9"/>
+            <p>Amongſt thoſe Papers ſo falling into my hands as aforeſaid, are ſeveral Ta<g ref="char:EOLhyphen"/>bles and Squares in order to diſtinct compliances by a Diurnal, a Bill of pet<g ref="char:EOLhyphen"/>ty Expences, Letters of common diſ<g ref="char:EOLhyphen"/>courſe and the like, too crabbed for my capacity; alſo two papers, the one con<g ref="char:EOLhyphen"/>taining a diſcourſe of the power of Numbers, and the other of Secret Wri<g ref="char:EOLhyphen"/>ting by Waters and Juices, both which are inſerted as followeth.</p>
+            <p>The word CAROLUS may be made differently out of theſe Letters 3583 1808 times and no more</p>
+            <q>
+               <l>
+                  <hi>cccccccccccc</hi>
+               </l>
+               <l>
+                  <hi>aaaaaaaaaaaa</hi>
+               </l>
+               <l>
+                  <hi>rrrrrrrrrrrr</hi>
+               </l>
+               <l>
+                  <hi>oooooooooooo</hi>
+               </l>
+               <l>
+                  <hi>llllllllllll</hi>
+               </l>
+               <l>
+                  <hi>uuuuuuuuuuu</hi>
+               </l>
+               <l>
+                  <hi>ssssssssssss</hi>
+               </l>
+            </q>
+            <p>Here are 7 different letters each 12 times repeated, the rule to know the varieties is this:</p>
+            <p>Set down the Number 12 ſeven times, and multiply thoſe 7 twelves continually, the product gives the varie<g ref="char:EOLhyphen"/>ties required.</p>
+            <q>
+               <lg>
+                  <pb n="15" facs="tcp:49268:9"/>
+                  <l>
+                     <hi>Quod ſat ſit (ſors) da, ſed ne poſt tu rap<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> de me;</hi>
+                  </l>
+                  <l>
+                     <hi>Sin te ſic mens fert, vae m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>! nec fas neque jus vis.</hi>
+                  </l>
+               </lg>
+            </q>
+            <p>This Diſtick is variable 114400072|7777607680000 wayes, the words <hi>rape &amp; neque</hi> ſtanding alwayes as they are. But if they change places (as they may once) then the former number of varieties will be doubled thus 228800|1455555215360000. Thoſe written in all varieties according to 6 Verſes or 3 Diſticks in the depth of an inch, each Verſe 3 inches long, would fill a roll of Paper of 3 inches breadth 62444484|876533760000 feet long, whoſe weight would make 99857918246056 of our ordinary Cart loads. The length of that roll will compaſs</p>
+            <p>The Body of the Earth<g ref="char:punc">▪</g>
+            </p>
+            <p>492769766939</p>
+            <p>times a<g ref="char:EOLhyphen"/>bout.</p>
+            <p>The Sphere of the firſt ſtars according to the greateſt allow<g ref="char:EOLhyphen"/>ance of it 8212</p>
+            <p>times a<g ref="char:EOLhyphen"/>bout.</p>
+            <p>Upon the ſphere of the fixed ſtars that roll would make Meridians and Pa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al<g ref="char:EOLhyphen"/>le<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s
+<pb n="16" facs="tcp:49268:10"/> to every degree and ⅓ of minutes beſides Circles of Longitude and Lati<g ref="char:EOLhyphen"/>tude upon the ſame ſphere, to every de<g ref="char:EOLhyphen"/>gree and 1/10; of minutes, with Almican<g ref="char:EOLhyphen"/>thars and Azimuths above the Horiſon to every ⅓ of a degree and circles of po<g ref="char:EOLhyphen"/>ſition to every ½ degree both above and below the Horiſon.</p>
+            <p>The ſuperficial quantity of it would cover all over the face of the Ea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th 3055 times the juſt ſphere of the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when ſhe is in her <hi>Perig<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m.</hi>
+            </p>
+            <p>If the former roll were rolled up cloſe together, the Semidiameter of the flat made by it would exceed the Semi<g ref="char:EOLhyphen"/>diameter of the Earth by 10826 miles.</p>
+            <p>The ſame paper would be worth 7592043421779142 allowing 50 ſheets for 6d. <hi>id eſt</hi> 8¼ ſheets for a peny.</p>
+            <p>The Ink that ſhould write the varie<g ref="char:EOLhyphen"/>ties would load 27159778763 Carts and would fill a pool of 1 74 /100 foot depth as broad as the whole Mediteranean Sea, or a pool as broad as all <hi>England,</hi> whoſe depth is 42 65 / 100 feet, which Ink (according to the ordinary price of 3d. <hi>per</hi> pint) would be worth 5741577230 5623 <hi>l.</hi> or the former quantity of Ink
+<pb n="17" facs="tcp:49268:10"/> would make up a River of two miles breadth and 47⅖ feet depth, whoſe length would compaſs the whole Globe of the Earth,</p>
+            <p>And if for theſe two words (<hi>Rape &amp; Neque</hi>) were placed 4 ſhort Monoſyl<g ref="char:EOLhyphen"/>lables, then the former varieties would yet be made 12 times ſo many, namely, 26976017466662584320000 which would be the greateſt number of varie<g ref="char:EOLhyphen"/>ties that could poſſibly be in one Diſtic.</p>
+            <p>The reſt of the Diſcourſe is in ſhort<g ref="char:EOLhyphen"/>hand and Algebraical Characters, which I cannot make out.</p>
+         </div>
+         <div type="text">
+            <pb n="18" facs="tcp:49268:11"/>
+            <head>Inviſible Writing by Wa<g ref="char:EOLhyphen"/>ters, &amp;c.</head>
+            <p>DIſſolve Vitriol in boiling water, and when it is clear write there<g ref="char:EOLhyphen"/>with, dry the ſame gently at the fire (or let it dry at leiſure, which it will ſoon do) and the writing will be inviſible; when you would re<g ref="char:EOLhyphen"/>turn it boil Galls in white wine; dip a feather in the liquor and wipe it over the writing, and it will ſuddenly burſt<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> d</hi> 43. page of the fol<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>g <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> out like lightning from a cloud.</p>
+            <p>Diſſolve Allom in water and write u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on white linen or ſarcenet, the wri<g ref="char:EOLhyphen"/>ting will immediately vaniſh and not ſo much as a hair ſtroke appear. To re<g ref="char:EOLhyphen"/>turn the w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iting dip it in water, the li<g ref="char:EOLhyphen"/>nen will be darkned and the Letters be legible (and invi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble again when the linen's day) or hold it to the fire and it will produce the ſame effect, but then
+<pb n="19" facs="tcp:49268:11"/> the letters will vaniſh no more.</p>
+            <p>Write upon a ſtone with the fat of a Goat diſſolved, the letters when dry will be illegible; dip the ſtone in di<g ref="char:EOLhyphen"/>ſtilled Vinegar and the writing will be apparent.</p>
+            <p>Pulverize Galls and Virriol and the gum of Juniper, ſtrew it on your paper and rub it hard thereon with a cloth, then poliſh it with a Boa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s tooth or haſt of a knife, write your ſecret upon that paper with fair water or ſpittle, and the letters by degrees will appear black and legible, the ſooner if you wear the paper at your breſt between your ſhirt and doublet.</p>
+            <p>Write with the juice of Citrons, Orenges, Lemons, Onions, or any o<g ref="char:EOLhyphen"/>ther ſharp juices, hold your writing to the fire and their acrimony will be preſently diſcovered, and will ſhew forth thoſe Colours that they would upon the tree when they are ripe. If you write with the juice of ſowr Grapes the writing will appear black, juice of Cherries added to <hi>Calamus</hi> will produce a green, to Sow-bread a red, &amp;c.</p>
+            <p>Pulverize Sal Ammoniack and diſ<g ref="char:EOLhyphen"/>ſolve it in water, when the water is
+<pb n="20" facs="tcp:49268:12"/> clear write therewith and the writing will be ſoon inviſible, hold it to the fire and it will immediately grow black and legible.</p>
+            <p>Take diſtilled Vinegar, the white of an Egg, and Quickſilver, ſtir them well together, write what you would have concealed, and to return it ſcorch the paper upon a hot fire-ſhovel till it look blackiſh, and the writing will appear white and legible.</p>
+            <p>Soak Gum Traganth in water and therewith mingle white Lead, ſpread it all over your paper, write thereon with a point of Iron or Silver, and you cannot diſcern whats written but by holding the paper between your eye and the light of a candle.</p>
+            <p>Write upon the hidden parts of the body, <hi>viz.</hi> Back, Arms, or other Limbs with Urine or diſtilled Vinegar, and you may return the writing by gently rub<g ref="char:EOLhyphen"/>ing the places with the aſhes of burnt ſtraw or paper.</p>
+            <p>
+               <label>Tithymals.</label> If you make letters with Fat, Tallow, or any fatty ſubſtance, or with Gum or Milk of a Fig-tree, the duſt of cole or burnt paper will return the writing. <hi>Pliny</hi> ſaith the Milk of <hi>Tithymals</hi> will
+<pb n="21" facs="tcp:49268:12"/> do the like, <hi>Ovid</hi> confirms this, admo<g ref="char:EOLhyphen"/>niſhing Maids in his <hi>Arte Ama<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>di,</hi> how they may ſafely write to their ſweet<g ref="char:EOLhyphen"/>hearts.</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Tuta quo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> eſt, fallit<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> oculos <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> lacte recenti</hi>
+                  </l>
+                  <l>
+                     <hi>Littera, carbonis polline tange, leges:</hi>
+                  </l>
+                  <l>
+                     <hi>Fallit &amp; humiduli quae fiet acumine lini,</hi>
+                  </l>
+                  <l>
+                     <hi>Et feret occultas pura tabella notas.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Write with new Milk its ſafe, unſeen, but read</l>
+                  <l>The writing with cole-duſt laid on full right:</l>
+                  <l>Moiſt ſlax will write as if that none had been,</l>
+                  <l>And Letters on your paper paſs the ſight.</l>
+               </lg>
+            </q>
+            <p>Diſſolve Gum Arabick, or Gun Tra<g ref="char:EOLhyphen"/>ganth in water, let the water be clear and you may write upon cryſtal or glaſs, and the aſhes of burnt ſtraw or pa<g ref="char:EOLhyphen"/>per will return the writing.</p>
+            <p>Rub your paper with a liquor made of Goats Suet and Turpentine diſſolved, when you write lay upon that another paper ſmeared with fat, write thereon with an Iron or Silver point, and the
+<pb n="22" facs="tcp:49268:13"/> impreſſion thereof will be upon the firſt paper inviſible till you ſtrew duſt there<g ref="char:EOLhyphen"/>on.</p>
+            <p>Stir the white and yolk of an Egg to<g ref="char:EOLhyphen"/>gether that it may be liquid as Ink, write your ſecret therewith, then dry the pa<g ref="char:EOLhyphen"/>per and write over thoſe Letters (with ſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aw-duſt or Lamp black ground with Vineger) any common diſcourſe; and when you would return the firſt wri<g ref="char:EOLhyphen"/>ting ſcrape off the ſecond, and the firſt will appear white.</p>
+            <p>With any of the former waters you may write upon an Egg, a ſmooth board, or Ivory, as upon paper; and you may convey a Letter in an Egg thus. Put the Egg in ſharp Vinegar three or four hours, when you find it ſoft open the ſhell with the edge of your knife, then roll up your Letter in a ſmall roll and put it in, afterwards ſoak the Egg in cold water and the ſhell will grow hard as formerly. If you find that part of the ſhell you open ſubject to diſcovery, mix a little lime and gum and you may ſtop it neatly.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:49268:13"/>
+            <head>
+               <hi>Books worth buying, ſold by</hi> Nath. Brook <hi>at the Angel in Cornhill.</hi>
+            </head>
+            <list>
+               <item>1. THe compleat Clerk, or Conveyancers light, containing the beſt forms of all ſorts of preſidents for conveyances and aſſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ces, and other inſtruments now in uſe. <hi>qu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt.</hi>
+               </item>
+               <item>2. An hiſtorical diſcourſe briefly ſetting forth the nature of Procurations, and ſome<g ref="char:EOLhyphen"/>what alſo of Synodals and Pentecoſtals <hi>q<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>art.</hi>
+               </item>
+               <item>3. Obſervations, Cenſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es and Confutations of notorious errors in Mr. <hi>Hobbes</hi> his Leviathan and other his books. To which are annexed occaſional animadverſions on ſome writings of the Soc<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ians and ſuch Hereticks, of the ſame opinions: by <hi>W. Lu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y,</hi> B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhop of <hi>S. Davids quart.</hi>
+               </item>
+               <item>4. The B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itiſh Phyſician, or the nature and virtues of Engliſh plants, exactly deſcribing ſuch plants as g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow naturally in our land, with their ſeveral names, natures, places, &amp;c. and alſo of all ſuch forein herbs, roots and plants as are brought hither. <hi>oct. 3<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. pri<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </item>
+               <item>5. <hi>Fax nova linguae Latinae,</hi> a n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h to the La<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine tongue, very uſeful for Gentlemen, Lawyers and young Clerks, with the approba<g ref="char:EOLhyphen"/>tion of many learned ſcholars on the work<g ref="char:punc">▪</g>
+               </item>
+               <item>6. The method of Chemical Philoſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phy and Phyſick, being a brief intro<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uction to the one, and a true diſcovery of the other, namely, o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Diſeaſes, their qualities, cauſes, ſymptoms, and certain cur<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. The like never before ex<g ref="char:EOLhyphen"/>tant in Engliſh. <hi>oct<g ref="char:punc">▪</g> la<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </item>
+               <item>7. The Divine Services and Anthems uſually ſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g in His Maj<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſty's Chapel, and in all Ca<g ref="char:EOLhyphen"/>thed al and Collegiate Churches in <hi>England</hi> and <hi>I<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ela<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d,</hi> the ſecond Edition, with large additions: collected by <hi>J. C.</hi>
+               </item>
+               <pb facs="tcp:49268:14"/>
+               <item>8. The Complete Midwifes practice enlar<g ref="char:EOLhyphen"/>ged, in th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt weighty and high concern<g ref="char:EOLhyphen"/>men<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of the b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th of man, containing a perfect directory or rules for Midwifes and Nurſes. <hi>oct.</hi>
+               </item>
+               <item>9. The Womans counſellour, or the Femi<g ref="char:EOLhyphen"/>nine Phyſician, mo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtly t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eating of ſuch <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cult accidents and ſec<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et diſeaſes as are inci<g ref="char:EOLhyphen"/>dent to that ſex. <hi>oct.</hi>
+               </item>
+               <item>10. <hi>Prae-nuncius Sydereus,</hi> an Aſtrological Treatiſe of the effects of the great Conjuncti<g ref="char:EOLhyphen"/>on of the two ſuperiour Planets <hi>Saturn</hi> and <hi>Jupiter, Octob.</hi> 10. 63. and other Configurati<g ref="char:EOLhyphen"/>ons concom<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tant: wherein the fate of <hi>Europe</hi> for theſe next twenty years is from the moſt rational grounds of art more than probably conjectu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, and the ſucceſs of the preſent de<g ref="char:EOLhyphen"/>ſign of the Tu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k againſt Chriſtendom occaſio<g ref="char:EOLhyphen"/>nally hinted at, by <hi>R<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>b. Edlin. quart.</hi>
+               </item>
+               <item>11. <hi>Florus Hungaricus,</hi> or the hiſtory of <hi>Hun<g ref="char:EOLhyphen"/>garia</hi> and <hi>Tranſylvania,</hi> deduced from the ori<g ref="char:EOLhyphen"/>ginal of that Nation, and their ſetling in <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> in the year of our Lord, 461. to this dan<g ref="char:EOLhyphen"/>gerous and ſuſpectful period of that Kingdom by the preſent Turkiſh invaſion, 1664. <hi>oct.</hi>
+               </item>
+               <item>12 VVits Interpreter, the Engliſh <hi>Parnaſſus,</hi> or a ſure Guide to thoſe admirable accom<g ref="char:EOLhyphen"/>pliſhments that complete our Engliſh Gentry in the moſt ac<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eptable qualifications of diſ<g ref="char:EOLhyphen"/>courſe or writing: by <hi>J. C. oct. large.</hi>
+               </item>
+               <item>13. The accompliſh'd Cook, the m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtery of the art of Cookery revealed in a more eaſie and perfect method than hath been publiſhed in any language. <hi>oct. large.</hi>
+               </item>
+               <item>13. <hi>Moor's</hi> Arithmetick, the ſecond Edition, much refined, containing the whole art of Arithmetick, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s well in Numbers as Species. <hi>oct.</hi>
+               </item>
+               <item>15. The Reformed Presbyterian, by <hi>Rich. Littler. oct. large.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:49268:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
